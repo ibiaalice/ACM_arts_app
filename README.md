@@ -17,7 +17,7 @@ Hello, this app is not an official [AIC](https://www.artic.edu/) app but it is a
 to run the app, you need to follow the steps:
 
 1. Open the repository: 
-```cd acm_app```
+```cd acm_arts```
 
 2. Download dependencies:
 ``` flutter pub get ```
